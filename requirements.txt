@@ -1,0 +1,13 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+logging
+matplotlib
+seaborn
+jupyter
+tqdm
+jsonschema
+torchvision
+pytorch-lightning
